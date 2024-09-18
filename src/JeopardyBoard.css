@@ -1,0 +1,228 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Prevent scrollbars */
+  height: 100%;
+}
+/* Full Jeopardy board layout */
+.jeopardy-board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #1e3b75, #0b5496);
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+}
+
+/* Player scores */
+.player-scores {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin-bottom: 30px;
+  background: linear-gradient(135deg, #2d73b9, #5cacee);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.player {
+  flex: 1;
+  text-align: center;
+  color: #fff;
+  font-size: 1.8em;
+  position: relative;
+  transition: transform 0.3s;
+}
+
+.player.selected {
+  border: 3px solid #ffeb3b;
+  box-shadow: 0 0 20px rgba(255, 235, 59, 0.8);
+  transform: scale(1.1);
+}
+
+/* Category row */
+.categories-row {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-bottom: 30px;
+}
+
+.category {
+  flex: 1;
+  text-align: center;
+  padding: 15px;
+  background: linear-gradient(135deg, #2d73b9, #4a90e2);
+  color: #fff;
+  font-size: 1.7em;
+  margin: 0 10px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s;
+}
+
+.category:hover {
+  transform: scale(1.05);
+}
+
+/* Points row */
+.points-row {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.points-cell {
+  flex: 1;
+  text-align: center;
+  padding: 25px;
+  background-color: #073a6a;
+  color: #fff;
+  font-size: 2.2em;
+  margin: 0 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+.points-cell:hover {
+  background-color: #0b5496;
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.points-cell.disabled {
+  background-color: #444;
+  color: #bbb;
+  cursor: not-allowed;
+}
+
+/* Full-screen overlay for displaying the question */
+.question-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Question container */
+.question-container {
+  position: relative;
+  max-width: 75%;
+  text-align: center;
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.7);
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+/* Close button */
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: #333;
+  transition: color 0.3s;
+}
+
+.close-button:hover {
+  color: #ff3b3b;
+}
+
+/* Question text */
+.question-text {
+  font-size: 3em;
+  color: #000;
+  margin-bottom: 30px;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Show answer button */
+.show-answer-button {
+  margin: 20px 0;
+  padding: 15px 30px;
+  background: linear-gradient(135deg, #007bff, #00bfff);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+  transition: background 0.3s, box-shadow 0.3s;
+}
+
+.show-answer-button:hover {
+  background: linear-gradient(135deg, #0056b3, #0073e6);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Answer section */
+/* Ensure answer section is visible */
+.answer-section {
+  margin-top: 30px;
+  display: block; /* Ensure it's displayed */
+  visibility: visible; /* Ensure it's visible */
+}
+
+/* Answer text */
+.answer-text {
+  font-size: 1.7em;
+  margin-bottom: 20px;
+  color: #000; /* Ensure text is visible */
+  font-family: "Roboto", sans-serif;
+}
+
+
+.answer-indicator {
+  font-size: 1.7em;
+  margin-bottom: 30px;
+  color: #000;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Answer buttons */
+.answer-button {
+  margin: 10px;
+  padding: 15px 30px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.answer-button:hover {
+  background-color: #218838;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+.answer-button:nth-child(2) {
+  background-color: #dc3545;
+}
+
+.answer-button:nth-child(2):hover {
+  background-color: #c82333;
+}

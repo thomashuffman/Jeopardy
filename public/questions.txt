@@ -1,0 +1,2396 @@
+[
+  {
+    "pointValue": 200,
+    "category": "Science",
+    "question": "What planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "pointValue": 400,
+    "category": "Science",
+    "question": "What is the most abundant gas in the Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "Science",
+    "pointValue": 600,
+    "question": "What is the name of the process by which green plants make their own food?",
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Science",
+    "pointValue": 800,
+    "question": "Which physicist developed the theory of general relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "category": "Science",
+    "pointValue": 1000,
+    "question": "What subatomic particles are found in the nucleus of an atom, and which one is electrically neutral?",
+    "answer": "Protons and Neutrons (neutrons are electrically neutral)"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 200,
+    "question": "Who directed the film 'Jurassic Park'?",
+    "answer": "Steven Spielberg"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 400,
+    "question": "Which film won the Academy Award for Best Picture in 1994?",
+    "answer": "Forrest Gump"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 600,
+    "question": "What is the name of the fictional African country in 'Black Panther'?",
+    "answer": "Wakanda"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 800,
+    "question": "Who played the role of Jack Dawson in 'Titanic'?",
+    "answer": "Leonardo DiCaprio"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 1000,
+    "question": "What 1999 film features a character named Tyler Durden?",
+    "answer": "Fight Club"
+  },
+    {
+    "category": "Geography",
+    "pointValue": 200,
+    "question": "What is the capital city of France?",
+    "answer": "Paris"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 400,
+    "question": "Which river is the longest in the world?",
+    "answer": "Nile"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 600,
+    "question": "Which country is both in Europe and Asia?",
+    "answer": "Turkey"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 800,
+    "question": "What is the name of the desert that spans northern Africa?",
+    "answer": "Sahara"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 1000,
+    "question": "What is the name of the mountain range that forms the boundary between Europe and Asia?",
+    "answer": "Ural Mountains"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 200,
+    "question": "Which sport is known as \"the beautiful game\"?",
+    "answer": "Soccer (Football)"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 200,
+    "question": "In which sport would you perform a slam dunk?",
+    "answer": "Basketball"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 200,
+    "question": "What is the maximum score in a single frame of bowling?",
+    "answer": "300"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 200,
+    "question": "What is the national sport of Japan that involves two competitors attempting to force each other out of a ring?",
+    "answer": "Sumo Wrestling"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 400,
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "answer": "France"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 400,
+    "question": "In which sport do players use a club to hit a small ball into a series of holes in the ground?",
+    "answer": "Golf"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 400,
+    "question": "What is the name of the annual American football game that determines the champion of the National Football League (NFL)?",
+    "answer": "Super Bowl"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 400,
+    "question": "In tennis, what is the term used for a serve that is not returned by the opponent?",
+    "answer": "Ace"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 600,
+    "question": "Who holds the record for the most home runs in a single MLB season?",
+    "answer": "Barry Bonds"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 600,
+    "question": "What is the name of the cycling race held annually in France?",
+    "answer": "Tour de France"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 600,
+    "question": "Which swimmer has won the most Olympic gold medals?",
+    "answer": "Michael Phelps"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 600,
+    "question": "In what city were the 2016 Summer Olympics held?",
+    "answer": "Rio de Janeiro"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 800,
+    "question": "Which NFL team has won the most Super Bowl titles?",
+    "answer": "Pittsburgh Steelers (tied with New England Patriots)"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 800,
+    "question": "What is the term for the final round of a golf tournament?",
+    "answer": "The Final Round or Sunday Round"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 800,
+    "question": "In which sport would you find the terms \"alley-oop,\" \"three-pointer,\" and \"dribbling\"?",
+    "answer": "Basketball"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 800,
+    "question": "Who is the all-time leading scorer in the NBA?",
+    "answer": "Kareem Abdul-Jabbar"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 1000,
+    "question": "What is the only sport to have been played on the moon?",
+    "answer": "Golf (Alan Shepard hit two golf balls during the Apollo 14 mission)"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 1000,
+    "question": "What is the name of the annual rowing race between the universities of Oxford and Cambridge?",
+    "answer": "The Boat Race"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 1000,
+    "question": "In which sport is the term \"hat-trick\" used to describe a player scoring three goals in a single game?",
+    "answer": "Soccer (Football), Hockey"
+  },
+  {
+    "category": "Sports",
+    "pointValue": 1000,
+    "question": "Which athlete holds the record for the most consecutive Olympic gold medals in individual events?",
+    "answer": "Paavo Nurmi (Track and Field, 1920 and 1924 Olympics)"
+  },
+  {
+    "category": "Music",
+    "pointValue": 200,
+    "question": "Which musical instrument has 88 keys?",
+    "answer": "Piano"
+  },
+  {
+    "category": "Music",
+    "pointValue": 200,
+    "question": "What is the term for a song that is played on the radio and becomes popular?",
+    "answer": "Hit"
+  },
+  {
+    "category": "Music",
+    "pointValue": 200,
+    "question": "Which genre of music is known for its use of electric guitars, drums, and strong rhythms?",
+    "answer": "Rock"
+  },
+  {
+    "category": "Music",
+    "pointValue": 200,
+    "question": "Who is known as the 'King of Pop'?",
+    "answer": "Michael Jackson"
+  },
+  {
+    "category": "Music",
+    "pointValue": 400,
+    "question": "Which composer is known for his symphony 'Symphony No. 5'?",
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "category": "Music",
+    "pointValue": 400,
+    "question": "In music, what is the term for a repeated section that usually contains the main theme of a song?",
+    "answer": "Chorus"
+  },
+  {
+    "category": "Music",
+    "pointValue": 400,
+    "question": "Which famous singer is known for the song 'Rolling in the Deep'?",
+    "answer": "Adele"
+  },
+  {
+    "category": "Music",
+    "pointValue": 400,
+    "question": "What is the name of the high-pitched female singing voice?",
+    "answer": "Soprano"
+  },
+  {
+    "category": "Music",
+    "pointValue": 600,
+    "question": "Which classical composer is known for 'The Four Seasons'?",
+    "answer": "Antonio Vivaldi"
+  },
+  {
+    "category": "Music",
+    "pointValue": 600,
+    "question": "What musical term is used to describe a gradual increase in loudness?",
+    "answer": "Crescendo"
+  },
+  {
+    "category": "Music",
+    "pointValue": 600,
+    "question": "Which jazz musician is known for his influential trumpet playing and improvisation?",
+    "answer": "Louis Armstrong"
+  },
+  {
+    "category": "Music",
+    "pointValue": 600,
+    "question": "What is the name of the musical form that features a recurring theme with variations?",
+    "answer": "Theme and Variations"
+  },
+  {
+    "category": "Music",
+    "pointValue": 800,
+    "question": "Who composed the opera 'The Marriage of Figaro'?",
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "category": "Music",
+    "pointValue": 800,
+    "question": "In which century did Johann Sebastian Bach compose most of his works?",
+    "answer": "18th Century"
+  },
+  {
+    "category": "Music",
+    "pointValue": 800,
+    "question": "What is the term for a musical composition for an orchestra that typically has three or four movements?",
+    "answer": "Symphony"
+  },
+  {
+    "category": "Music",
+    "pointValue": 800,
+    "question": "Which famous musician is known for the 'Purple Rain' album?",
+    "answer": "Prince"
+  },
+  {
+    "category": "Music",
+    "pointValue": 1000,
+    "question": "Which avant-garde composer is known for his 1952 work '4'33', which is performed in silence?",
+    "answer": "John Cage"
+  },
+  {
+    "category": "Music",
+    "pointValue": 1000,
+    "question": "What is the name of the 20th-century music genre that incorporates elements of jazz, classical, and popular music, characterized by complex rhythms and harmonies?",
+    "answer": "Third Stream"
+  },
+  {
+    "category": "Music",
+    "pointValue": 1000,
+    "question": "Which baroque composer is known for his extensive use of counterpoint and fugue in his works, including 'The Well-Tempered Clavier'?",
+    "answer": "Johann Sebastian Bach"
+  },
+  {
+    "category": "Music",
+    "pointValue": 1000,
+    "question": "Who composed the controversial 'Tristan und Isolde' opera, known for its complex harmonic language and emotional intensity?",
+    "answer": "Richard Wagner"
+  },
+  {
+    "category": "Music",
+    "pointValue": 200,
+    "question": "What do you call a person who writes and composes music?",
+    "answer": "Composer"
+  },
+  {
+    "category": "Music",
+    "pointValue": 200,
+    "question": "Which instrument is commonly used to play jazz and classical music and is known for its use in orchestras?",
+    "answer": "Violin"
+  },
+  {
+    "category": "Music",
+    "pointValue": 200,
+    "question": "What is the name of the singer who performs in front of an audience?",
+    "answer": "Vocalist"
+  },
+  {
+    "category": "Music",
+    "pointValue": 200,
+    "question": "What is the term for a musical piece written specifically for a group of singers or musicians?",
+    "answer": "Score"
+  },
+  {
+    "category": "Music",
+    "pointValue": 400,
+    "question": "Which musical group is known for the album 'Abbey Road'?",
+    "answer": "The Beatles"
+  },
+  {
+    "category": "Music",
+    "pointValue": 400,
+    "question": "What is the name of the rhythm pattern consisting of a steady beat with accents on the off-beats?",
+    "answer": "Backbeat"
+  },
+  {
+    "category": "Music",
+    "pointValue": 400,
+    "question": "Which famous composer is known for 'The Nutcracker Suite'?",
+    "answer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "category": "Music",
+    "pointValue": 400,
+    "question": "What is the musical term for a gradual decrease in volume?",
+    "answer": "Decrescendo"
+  },
+  {
+    "category": "Music",
+    "pointValue": 600,
+    "question": "Which musician is known for pioneering electronic music with the album 'The Dark Side of the Moon'?",
+    "answer": "Pink Floyd"
+  },
+  {
+    "category": "Music",
+    "pointValue": 600,
+    "question": "In what type of musical work are instruments combined with vocal parts in a narrative form?",
+    "answer": "Opera"
+  },
+  {
+    "category": "Music",
+    "pointValue": 600,
+    "question": "What term describes a musical composition that is meant to be played on the piano with a specific style of playing?",
+    "answer": "Etude"
+  },
+  {
+    "category": "Music",
+    "pointValue": 600,
+    "question": "Which jazz style is characterized by a fast tempo and complex chord progressions, and is often associated with the Bebop era?",
+    "answer": "Bebop"
+  },
+  {
+    "category": "Music",
+    "pointValue": 800,
+    "question": "What is the name of the musical technique used by composers to create a sense of tension and release in their compositions?",
+    "answer": "Harmonic Progression"
+  },
+  {
+    "category": "Music",
+    "pointValue": 800,
+    "question": "Which 19th-century composer is known for his 'Symphonic Poems' and use of leitmotifs?",
+    "answer": "Richard Wagner"
+  },
+  {
+    "category": "Music",
+    "pointValue": 800,
+    "question": "What is the term for a musical composition with a recurring melodic theme that undergoes variations throughout the piece?",
+    "answer": "Variation Form"
+  },
+  {
+    "category": "Music",
+    "pointValue": 800,
+    "question": "Which composer is known for his innovative approach to music theory in the 20th century, including the concept of 'serialism'?",
+    "answer": "Arnold Schoenberg"
+  },
+  {
+    "category": "Music",
+    "pointValue": 1000,
+    "question": "Which early 20th-century composer developed the concept of 'twelve-tone technique' as a method of composition?",
+    "answer": "Arnold Schoenberg"
+  },
+  {
+    "category": "Music",
+    "pointValue": 1000,
+    "question": "Which modern composer is known for creating the 'minimalist' movement, including works such as 'Music for 18 Musicians'?",
+    "answer": "Steve Reich"
+  },
+  {
+    "category": "Music",
+    "pointValue": 1000,
+    "question": "What is the name of the 20th-century American composer known for his use of atonality and dissonance in compositions such as 'Sonatas and Interludes'?",
+    "answer": "John Cage"
+  },
+  {
+    "category": "Music",
+    "pointValue": 1000,
+    "question": "Which composer is known for the development of electronic music and the creation of the 'Gesang der Jünglinge' in the 1950s?",
+    "answer": "Karlheinz Stockhausen"
+  },
+  {
+    "category": "History",
+    "pointValue": 200,
+    "question": "Who was the first President of the United States?",
+    "answer": "George Washington"
+  },
+  {
+    "category": "History",
+    "pointValue": 200,
+    "question": "In which year did the Titanic sink?",
+    "answer": "1912"
+  },
+  {
+    "category": "History",
+    "pointValue": 200,
+    "question": "Which ancient civilization is known for building the pyramids of Giza?",
+    "answer": "Ancient Egypt"
+  },
+  {
+    "category": "History",
+    "pointValue": 200,
+    "question": "What was the primary language spoken in the Roman Empire?",
+    "answer": "Latin"
+  },
+  {
+    "category": "History",
+    "pointValue": 400,
+    "question": "Who was the British Prime Minister during World War II?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "category": "History",
+    "pointValue": 400,
+    "question": "What was the main goal of the French Revolution?",
+    "answer": "To overthrow the monarchy and establish a republic"
+  },
+  {
+    "category": "History",
+    "pointValue": 400,
+    "question": "Which U.S. President issued the Emancipation Proclamation?",
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "category": "History",
+    "pointValue": 400,
+    "question": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+    "answer": "Mayflower"
+  },
+  {
+    "category": "History",
+    "pointValue": 600,
+    "question": "Which famous explorer is credited with discovering the Americas in 1492?",
+    "answer": "Christopher Columbus"
+  },
+  {
+    "category": "History",
+    "pointValue": 600,
+    "question": "What was the purpose of the Marshall Plan?",
+    "answer": "To aid in the economic recovery of Western Europe after World War II"
+  },
+  {
+    "category": "History",
+    "pointValue": 600,
+    "question": "Which war was fought between the North and South in the United States from 1861 to 1865?",
+    "answer": "The Civil War"
+  },
+  {
+    "category": "History",
+    "pointValue": 600,
+    "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "answer": "Nikita Khrushchev"
+  },
+  {
+    "category": "History",
+    "pointValue": 800,
+    "question": "Which ancient Greek philosopher was known for his contributions to ethics and his method of inquiry, known as the Socratic method?",
+    "answer": "Socrates"
+  },
+  {
+    "category": "History",
+    "pointValue": 800,
+    "question": "What was the name of the U.S. military operation that aimed to capture Osama bin Laden in 2011?",
+    "answer": "Operation Neptune Spear"
+  },
+  {
+    "category": "History",
+    "pointValue": 800,
+    "question": "What was the main cause of the fall of the Berlin Wall in 1989?",
+    "answer": "Political pressure and the weakening of the East German government"
+  },
+  {
+    "category": "History",
+    "pointValue": 800,
+    "question": "Which French military leader rose to prominence during the French Revolution and later became Emperor of France?",
+    "answer": "Napoleon Bonaparte"
+  },
+  {
+    "category": "History",
+    "pointValue": 1000,
+    "question": "What was the name of the series of trials held to prosecute prominent leaders of Nazi Germany for war crimes after World War II?",
+    "answer": "Nuremberg Trials"
+  },
+  {
+    "category": "History",
+    "pointValue": 1000,
+    "question": "Which ancient empire was ruled by Genghis Khan and became one of the largest empires in history?",
+    "answer": "The Mongol Empire"
+  },
+  {
+    "category": "History",
+    "pointValue": 1000,
+    "question": "Which event, starting in 1618 and ending in 1648, was a series of conflicts in the Holy Roman Empire involving most of the European powers of the time?",
+    "answer": "The Thirty Years' War"
+  },
+  {
+    "category": "History",
+    "pointValue": 1000,
+    "question": "Which 20th-century conflict was characterized by ideological and geopolitical struggle between the Soviet Union and the United States?",
+    "answer": "The Cold War"
+  },
+  {
+    "category": "History",
+    "pointValue": 200,
+    "question": "Which city was the capital of the Byzantine Empire?",
+    "answer": "Constantinople"
+  },
+  {
+    "category": "History",
+    "pointValue": 200,
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "answer": "Amelia Earhart"
+  },
+  {
+    "category": "History",
+    "pointValue": 200,
+    "question": "Which ancient civilization is known for creating the wheel?",
+    "answer": "Sumerians"
+  },
+  {
+    "category": "History",
+    "pointValue": 200,
+    "question": "What was the name of the agreement that ended World War I?",
+    "answer": "Treaty of Versailles"
+  },
+  {
+    "category": "History",
+    "pointValue": 400,
+    "question": "Who was the leader of the Soviet Union during the space race and the launch of Sputnik?",
+    "answer": "Nikita Khrushchev"
+  },
+  {
+    "category": "History",
+    "pointValue": 400,
+    "question": "Which U.S. President signed the Civil Rights Act of 1964 into law?",
+    "answer": "Lyndon B. Johnson"
+  },
+  {
+    "category": "History",
+    "pointValue": 400,
+    "question": "Which famous 19th-century American historical figure led the Underground Railroad?",
+    "answer": "Harriet Tubman"
+  },
+  {
+    "category": "History",
+    "pointValue": 400,
+    "question": "What was the primary cause of the American Revolution?",
+    "answer": "Taxation without representation"
+  },
+  {
+    "category": "History",
+    "pointValue": 600,
+    "question": "Which 17th-century conflict was characterized by a series of wars fought primarily between England and France?",
+    "answer": "The Anglo-French Wars"
+  },
+  {
+    "category": "History",
+    "pointValue": 600,
+    "question": "Which 20th-century war was fought between 1914 and 1918 and involved many of the world's great powers?",
+    "answer": "World War I"
+  },
+  {
+    "category": "History",
+    "pointValue": 600,
+    "question": "Who was the leader of the Nationalist forces during the Spanish Civil War?",
+    "answer": "Francisco Franco"
+  },
+  {
+    "category": "History",
+    "pointValue": 600,
+    "question": "Which historical event took place on July 20, 1969, marking the first time humans walked on the moon?",
+    "answer": "Apollo 11 Moon Landing"
+  },
+  {
+    "category": "History",
+    "pointValue": 800,
+    "question": "What was the primary objective of the United Nations during the Cold War?",
+    "answer": "To prevent the outbreak of a global nuclear war"
+  },
+  {
+    "category": "History",
+    "pointValue": 800,
+    "question": "Which 20th-century leader implemented the policy of 'glasnost' and 'perestroika'?",
+    "answer": "Mikhail Gorbachev"
+  },
+  {
+    "category": "History",
+    "pointValue": 800,
+    "question": "Which empire, known for its capital city of Babylon, was led by rulers such as Hammurabi and Nebuchadnezzar?",
+    "answer": "The Babylonian Empire"
+  },
+  {
+    "category": "History",
+    "pointValue": 800,
+    "question": "What was the main purpose of the Great Wall of China during the Qin Dynasty?",
+    "answer": "To protect against invasions from northern tribes"
+  },
+  {
+    "category": "History",
+    "pointValue": 1000,
+    "question": "Which historical figure is credited with the creation of the Code of Hammurabi, one of the earliest and most complete written legal codes?",
+    "answer": "Hammurabi"
+  },
+  {
+    "category": "History",
+    "pointValue": 1000,
+    "question": "What was the significance of the Magna Carta, signed in 1215 by King John of England?",
+    "answer": "It limited the powers of the monarchy and laid the foundation for constitutional law"
+  },
+  {
+    "category": "History",
+    "pointValue": 1000,
+    "question": "Which 19th-century conflict, known as the Crimean War, involved the British Empire, the Ottoman Empire, France, and Sardinia fighting against Russia?",
+    "answer": "The Crimean War"
+  },
+  {
+    "category": "History",
+    "pointValue": 1000,
+    "question": "What was the primary cause of the fall of the Byzantine Empire in 1453?",
+    "answer": "The conquest of Constantinople by the Ottoman Turks"
+  },
+  {
+    "category": "Science",
+    "pointValue": 200,
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "category": "Science",
+    "pointValue": 200,
+    "question": "What planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "category": "Science",
+    "pointValue": 200,
+    "question": "What organ in the human body is responsible for pumping blood?",
+    "answer": "Heart"
+  },
+  {
+    "category": "Science",
+    "pointValue": 200,
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "Science",
+    "pointValue": 400,
+    "question": "What is the powerhouse of the cell?",
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "Science",
+    "pointValue": 400,
+    "question": "What is the basic unit of heredity in living organisms?",
+    "answer": "Gene"
+  },
+  {
+    "category": "Science",
+    "pointValue": 400,
+    "question": "What phenomenon causes objects to appear to bend when they are viewed through water?",
+    "answer": "Refraction"
+  },
+  {
+    "category": "Science",
+    "pointValue": 400,
+    "question": "What type of bond is formed when atoms share electrons?",
+    "answer": "Covalent Bond"
+  },
+  {
+    "category": "Science",
+    "pointValue": 600,
+    "question": "What is the name of the process by which plants convert sunlight into chemical energy?",
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Science",
+    "pointValue": 600,
+    "question": "What is the most abundant element in the Earth's crust?",
+    "answer": "Oxygen"
+  },
+  {
+    "category": "Science",
+    "pointValue": 600,
+    "question": "What type of celestial body is the Sun classified as?",
+    "answer": "Star"
+  },
+  {
+    "category": "Science",
+    "pointValue": 600,
+    "question": "What is the main function of white blood cells in the human body?",
+    "answer": "To fight infection"
+  },
+  {
+    "category": "Science",
+    "pointValue": 800,
+    "question": "What is the name of the largest moon of Saturn?",
+    "answer": "Titan"
+  },
+  {
+    "category": "Science",
+    "pointValue": 800,
+    "question": "What is the name of the layer of the Earth's atmosphere where most weather events occur?",
+    "answer": "Troposphere"
+  },
+  {
+    "category": "Science",
+    "pointValue": 800,
+    "question": "What is the process by which cells divide to produce two identical daughter cells?",
+    "answer": "Mitosis"
+  },
+  {
+    "category": "Science",
+    "pointValue": 800,
+    "question": "Who is known as the father of modern physics and formulated the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "category": "Science",
+    "pointValue": 1000,
+    "question": "What is the term for the hypothetical particles that are believed to be responsible for the force of gravity?",
+    "answer": "Gravitons"
+  },
+  {
+    "category": "Science",
+    "pointValue": 1000,
+    "question": "What is the name of the principle that states that energy cannot be created or destroyed, only transformed?",
+    "answer": "The First Law of Thermodynamics"
+  },
+  {
+    "category": "Science",
+    "pointValue": 1000,
+    "question": "What is the name of the process in which DNA is replicated to produce a complementary strand?",
+    "answer": "DNA Replication"
+  },
+  {
+    "category": "Science",
+    "pointValue": 1000,
+    "question": "What is the name of the theory that explains the origin of the universe from a singularity?",
+    "answer": "The Big Bang Theory"
+  },
+  {
+    "category": "Science",
+    "pointValue": 200,
+    "question": "What type of energy is stored in an object due to its position?",
+    "answer": "Potential Energy"
+  },
+  {
+    "category": "Science",
+    "pointValue": 200,
+    "question": "What is the process by which water vapor turns into liquid water?",
+    "answer": "Condensation"
+  },
+  {
+    "category": "Science",
+    "pointValue": 200,
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "category": "Science",
+    "pointValue": 200,
+    "question": "What is the force that pulls objects toward the center of the Earth?",
+    "answer": "Gravity"
+  },
+  {
+    "category": "Science",
+    "pointValue": 400,
+    "question": "What type of rock is formed from the cooling and solidification of magma?",
+    "answer": "Igneous Rock"
+  },
+  {
+    "category": "Science",
+    "pointValue": 400,
+    "question": "What is the term for the amount of heat needed to raise the temperature of one gram of water by one degree Celsius?",
+    "answer": "Calorie"
+  },
+  {
+    "category": "Science",
+    "pointValue": 400,
+    "question": "What type of organism is a producer in an ecosystem?",
+    "answer": "Plant"
+  },
+  {
+    "category": "Science",
+    "pointValue": 400,
+    "question": "What is the name of the largest organ in the human body?",
+    "answer": "Skin"
+  },
+  {
+    "category": "Science",
+    "pointValue": 600,
+    "question": "What is the term for a chemical reaction that absorbs energy from its surroundings?",
+    "answer": "Endothermic Reaction"
+  },
+  {
+    "category": "Science",
+    "pointValue": 600,
+    "question": "What is the scientific study of the behavior and interactions of matter and energy?",
+    "answer": "Physics"
+  },
+  {
+    "category": "Science",
+    "pointValue": 600,
+    "question": "What is the name of the process by which plants lose water vapor through their leaves?",
+    "answer": "Transpiration"
+  },
+  {
+    "category": "Science",
+    "pointValue": 600,
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed?",
+    "answer": "Catalyst"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 200,
+    "question": "What is the largest continent by land area?",
+    "answer": "Asia"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 200,
+    "question": "What river is the longest in the world?",
+    "answer": "Nile"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 200,
+    "question": "Which ocean is located to the east of Africa?",
+    "answer": "Indian Ocean"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 200,
+    "question": "What is the capital city of France?",
+    "answer": "Paris"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 400,
+    "question": "Which desert is the largest hot desert in the world?",
+    "answer": "Sahara"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 400,
+    "question": "What is the smallest country in the world by land area?",
+    "answer": "Vatican City"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 400,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answer": "Japan"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 400,
+    "question": "What is the name of the longest mountain range in the world?",
+    "answer": "Andes"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 600,
+    "question": "What is the name of the sea located between Europe and Africa?",
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 600,
+    "question": "Which U.S. state has the nickname 'The Sunshine State'?",
+    "answer": "Florida"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 600,
+    "question": "What mountain range separates Europe and Asia?",
+    "answer": "Ural Mountains"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 600,
+    "question": "Which lake is the largest by surface area?",
+    "answer": "Caspian Sea"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 800,
+    "question": "What is the name of the world's largest coral reef system?",
+    "answer": "Great Barrier Reef"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 800,
+    "question": "What country has the most islands in the world?",
+    "answer": "Sweden"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 800,
+    "question": "Which city is known as the 'Eternal City'?",
+    "answer": "Rome"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 800,
+    "question": "What is the name of the mountain range that runs along the western coast of South America?",
+    "answer": "Andes"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 1000,
+    "question": "What is the name of the underwater mountain range that extends the length of the Atlantic Ocean?",
+    "answer": "Mid-Atlantic Ridge"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 1000,
+    "question": "What is the name of the desert that spans much of northern China and southern Mongolia?",
+    "answer": "Gobi Desert"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 1000,
+    "question": "What is the name of the river that flows through Egypt and is the primary source of water for the country?",
+    "answer": "Nile"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 1000,
+    "question": "What is the term for the point on the Earth's surface directly above the origin of an earthquake?",
+    "answer": "Epicenter"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 200,
+    "question": "What is the capital city of Canada?",
+    "answer": "Ottawa"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 200,
+    "question": "Which country is both in Europe and Asia?",
+    "answer": "Turkey"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 200,
+    "question": "What is the capital city of Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 200,
+    "question": "Which U.S. state is known as the 'Golden State'?",
+    "answer": "California"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 400,
+    "question": "What is the name of the large island nation located southeast of India?",
+    "answer": "Sri Lanka"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 400,
+    "question": "Which river is the longest in South America?",
+    "answer": "Amazon River"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 400,
+    "question": "What is the capital city of Brazil?",
+    "answer": "Brasília"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 400,
+    "question": "What is the name of the large bay on the east coast of the United States, north of New York City?",
+    "answer": "Long Island Sound"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 600,
+    "question": "What country is known as the 'Land of the Midnight Sun'?",
+    "answer": "Norway"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 600,
+    "question": "What is the name of the large lake located in East Africa, bordered by Tanzania, Uganda, and Kenya?",
+    "answer": "Lake Victoria"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 600,
+    "question": "What is the capital city of South Korea?",
+    "answer": "Seoul"
+  },
+  {
+    "category": "Geography",
+    "pointValue": 600,
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "answer": "Africa"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 200,
+    "question": "Who played the character Jack Dawson in the movie Titanic?",
+    "answer": "Leonardo DiCaprio"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 200,
+    "question": "In which movie would you find the character 'Forrest Gump'?",
+    "answer": "Forrest Gump"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 200,
+    "question": "Which film features the famous line, 'Here's looking at you, kid'?",
+    "answer": "Casablanca"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 200,
+    "question": "What is the name of the fictional African country in 'Black Panther'?",
+    "answer": "Wakanda"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 400,
+    "question": "Who directed the movie 'Inception'?",
+    "answer": "Christopher Nolan"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 400,
+    "question": "What is the name of the fictional wizarding school in the Harry Potter series?",
+    "answer": "Hogwarts"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 400,
+    "question": "In 'The Godfather,' who is the head of the Corleone family?",
+    "answer": "Vito Corleone"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 400,
+    "question": "Which film features the characters E.T. and Elliott?",
+    "answer": "E.T. the Extra-Terrestrial"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 600,
+    "question": "In 'The Matrix,' what color pill does Neo take to learn the truth?",
+    "answer": "Red"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 600,
+    "question": "Which film won the Academy Award for Best Picture in 1994?",
+    "answer": "Forrest Gump"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 600,
+    "question": "Who composed the iconic score for the movie 'Star Wars'?",
+    "answer": "John Williams"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 600,
+    "question": "What is the name of the large white whale in the movie 'Moby Dick'?",
+    "answer": "Moby Dick"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 800,
+    "question": "What is the name of the artificial intelligence in '2001: A Space Odyssey'?",
+    "answer": "HAL 9000"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 800,
+    "question": "Who starred as the lead role in 'The Silence of the Lambs'?",
+    "answer": "Jodie Foster"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 800,
+    "question": "Which film is set in the dystopian future of Panem?",
+    "answer": "The Hunger Games"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 800,
+    "question": "What 1999 film features a character named Tyler Durden?",
+    "answer": "Fight Club"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 1000,
+    "question": "In 'The Lord of the Rings,' what is the name of the elven city where Legolas is from?",
+    "answer": "Rivendell"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 1000,
+    "question": "What film was directed by Alfred Hitchcock and features a famous shower scene?",
+    "answer": "Psycho"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 1000,
+    "question": "In 'Inception,' what is the term for the concept of planting an idea in someone's mind through dreams?",
+    "answer": "Inception"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 1000,
+    "question": "Which film features a character named 'The Bride' seeking revenge on the 'Deadly Viper Assassination Squad'?",
+    "answer": "Kill Bill"
+  },
+  {
+  "category": "Movies",
+    "pointValue": 200,
+    "question": "What is the name of the famous archaeologist played by Harrison Ford?",
+    "answer": "Indiana Jones"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 200,
+    "question": "In which movie does a young girl named Dorothy try to get back to Kansas?",
+    "answer": "The Wizard of Oz"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 200,
+    "question": "Who is the voice of the character Buzz Lightyear in 'Toy Story'?",
+    "answer": "Tim Allen"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 200,
+    "question": "What is the name of the classic 1975 film about a killer shark?",
+    "answer": "Jaws"
+  },
+  {
+  "category": "Movies",
+    "pointValue": 400,
+    "question": "Which actor played the role of Captain Jack Sparrow in 'Pirates of the Caribbean'?",
+    "answer": "Johnny Depp"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 400,
+    "question": "Which 1994 film is about the life of a man with a low IQ?",
+    "answer": "Forrest Gump"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 400,
+    "question": "In 'Jurassic Park,' what kind of dinosaur is the main attraction of the park?",
+    "answer": "T-Rex"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 400,
+    "question": "Which movie features a computer program called Skynet?",
+    "answer": "The Terminator"
+  },
+  {
+  "category": "Movies",
+    "pointValue": 600,
+    "question": "Which film features a character named 'Darth Vader'?",
+    "answer": "Star Wars"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 600,
+    "question": "In which movie does the character 'V' fight against a totalitarian regime?",
+    "answer": "V for Vendetta"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 600,
+    "question": "Who directed the film 'Pulp Fiction'?",
+    "answer": "Quentin Tarantino"
+  },
+  {
+    "category": "Movies",
+    "pointValue": 600,
+    "question": "What film features a time-traveling DeLorean?",
+    "answer": "Back to the Future"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 200,
+    "question": "Which duo of cartoon characters is known for their adventures in the 'SpongeBob SquarePants' series?",
+    "answer": "SpongeBob and Patrick"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 200,
+    "question": "Which famous duo is known for their song 'The Sound of Silence'?",
+    "answer": "Simon & Garfunkel"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 200,
+    "question": "Who are the two main characters in the 'Harry Potter' series known for their friendship?",
+    "answer": "Harry Potter and Hermione Granger"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 400,
+    "question": "Which pair of comedians is known for their hit TV show 'The Odd Couple'?",
+    "answer": "Jack Lemmon and Walter Matthau"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 400,
+    "question": "Which two superheroes form the duo known as Batman and Robin?",
+    "answer": "Batman and Robin"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 400,
+    "question": "Which famous duo is known for the iconic TV show 'The Beverly Hillbillies'?",
+    "answer": "Jed Clampett and Granny"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 600,
+    "question": "Which pair of historical figures led the American Civil Rights Movement?",
+    "answer": "Martin Luther King Jr. and Malcolm X"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 600,
+    "question": "Which duo is known for their work on the TV show 'Breaking Bad' as Walter White and Jesse Pinkman?",
+    "answer": "Bryan Cranston and Aaron Paul"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 600,
+    "question": "Which duo of musical legends collaborated on the album 'Abbey Road'?",
+    "answer": "John Lennon and Paul McCartney"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 800,
+    "question": "Which pair of artists are known for their collaboration on the painting 'The Scream'?",
+    "answer": "Edvard Munch and his own representation"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 800,
+    "question": "Which dynamic duo starred in the classic film 'Butch Cassidy and the Sundance Kid'?",
+    "answer": "Paul Newman and Robert Redford"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 800,
+    "question": "Which duo of directors is known for creating the movie 'The Matrix'?",
+    "answer": "The Wachowskis (Lana and Lilly Wachowski)"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 1000,
+    "question": "Which Nobel Prize-winning pair discovered the structure of DNA?",
+    "answer": "James Watson and Francis Crick"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 1000,
+    "question": "Which two political leaders were involved in the famous 'Reagan-Gorbachev' summits during the Cold War?",
+    "answer": "Ronald Reagan and Mikhail Gorbachev"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 1000,
+    "question": "Which pioneering duo are known for their work in early film technology and special effects?",
+    "answer": "Georges Méliès and Auguste Lumière"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 200,
+    "question": "In the animated TV series known for its slapstick humor, which two characters are constantly at odds with each other?",
+    "answer": "Tom and Jerry"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 200,
+    "question": "Which famous duo is known for their hit song 'We Will Rock You'?",
+    "answer": "Queen (Freddie Mercury and Brian May)"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 200,
+    "question": "Which duo is famous for the TV show 'The Amazing Race'?",
+    "answer": "Phil Keoghan and the contestants"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 400,
+    "question": "Which famous duo is known for the Broadway musical 'Les Misérables'?",
+    "answer": "Claude-Michel Schönberg and Alain Boublil"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 400,
+    "question": "Which two classic comic strip characters are known for their adventures in 'Calvin and Hobbes'?",
+    "answer": "Calvin and Hobbes"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 400,
+    "question": "Which duo is known for their detective work in 'Sherlock Holmes'?",
+    "answer": "Sherlock Holmes and Dr. John Watson"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 600,
+    "question": "Which two comedians starred in the classic film 'Abbott and Costello Meet Frankenstein'?",
+    "answer": "Bud Abbott and Lou Costello"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 600,
+    "question": "Which duo is known for their work on the TV show 'The X-Files'?",
+    "answer": "David Duchovny and Gillian Anderson"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 600,
+    "question": "Which pair of inventors are credited with creating the first successful airplane flight?",
+    "answer": "Orville and Wilbur Wright"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 800,
+    "question": "Which famous musical duo created the hit song 'Bridge Over Troubled Water'?",
+    "answer": "Paul Simon and Art Garfunkel"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 800,
+    "question": "Which pair of spies are known for their roles in the 'Mission: Impossible' series?",
+    "answer": "Ethan Hunt and his team"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 800,
+    "question": "Which duo of chefs is known for their cooking show 'The Two Fat Ladies'?",
+    "answer": "Clarissa Dickson Wright and Jennifer Paterson"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 1000,
+    "question": "Which two physicists are known for their work on quantum mechanics and the uncertainty principle?",
+    "answer": "Werner Heisenberg and Niels Bohr"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 1000,
+    "question": "Which famous duo created the 'Star Wars' universe?",
+    "answer": "George Lucas and Steven Spielberg"
+  },
+  {
+    "category": "Famous Duos",
+    "pointValue": 1000,
+    "question": "Which pair of historical figures is known for negotiating the Treaty of Versailles?",
+    "answer": "Woodrow Wilson and Georges Clemenceau"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 200,
+    "question": "What is the result of 8 divided by 2?",
+    "answer": "4"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 200,
+    "question": "If you have 3 apples and you get 2 more, how many apples do you have in total?",
+    "answer": "5"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 200,
+    "question": "What is the square of 5?",
+    "answer": "25"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 200,
+    "question": "What is the next number in the sequence: 2, 4, 6, 8, ?",
+    "answer": "10"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 400,
+    "question": "What is 15% of 200?",
+    "answer": "30"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 400,
+    "question": "Solve for x: 2x + 4 = 10.",
+    "answer": "3"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 400,
+    "question": "What is the result of 12 multiplied by 11?",
+    "answer": "132"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 400,
+    "question": "What is the missing number in the sequence: 5, 10, 20, ?, 80?",
+    "answer": "40"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 600,
+    "question": "What is the value of π (pi) rounded to two decimal places?",
+    "answer": "3.14"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 600,
+    "question": "If a triangle has two angles of 45 degrees, what is the measure of the third angle?",
+    "answer": "90 degrees"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 600,
+    "question": "What is the area of a rectangle with length 8 units and width 5 units?",
+    "answer": "40 square units"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 600,
+    "question": "Solve the equation: 5(x - 3) = 20.",
+    "answer": "7"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 800,
+    "question": "If you roll two six-sided dice, what is the probability of rolling a sum of 7?",
+    "answer": "1/6"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 800,
+    "question": "What is the result of 2^5 (2 raised to the power of 5)?",
+    "answer": "32"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 800,
+    "question": "In a right-angled triangle, if one angle is 30 degrees, what is the measure of the other non-right angle?",
+    "answer": "60 degrees"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 800,
+    "question": "If you invest $1000 at an annual interest rate of 5%, compounded yearly, what is the amount after 2 years?",
+    "answer": "$1102.50"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 1000,
+    "question": "What is the value of the integral of 2x dx from 0 to 5?",
+    "answer": "25"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 1000,
+    "question": "In a sequence where each number is twice the previous number, what is the 6th term if the first term is 3?",
+    "answer": "192"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 1000,
+    "question": "What is the value of the derivative of the function f(x) = 3x^3 - 5x + 2?",
+    "answer": "9x^2 - 5"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 1000,
+    "question": "If a cube has a volume of 64 cubic units, what is the length of each side of the cube?",
+    "answer": "4 units"
+  },
+  {
+    "category": "Math and Logic",
+    "pointValue": 1000,
+    "question": "Solve for x in the equation: log(x) + log(5) = 2.",
+    "answer": "100"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 200,
+    "question": "What is the largest land animal in the world?",
+    "answer": "Elephant"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 200,
+    "question": "Which animal is known for its black and white stripes?",
+    "answer": "Zebra"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 200,
+    "question": "What is the name of the domesticated animal known for barking?",
+    "answer": "Dog"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 200,
+    "question": "Which bird is known for its ability to mimic human speech?",
+    "answer": "Parrot"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 400,
+    "question": "What is the name of the largest species of shark?",
+    "answer": "Whale Shark"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 400,
+    "question": "Which mammal is known for its ability to hang upside down from trees?",
+    "answer": "Sloth"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 400,
+    "question": "What type of animal is a Komodo dragon?",
+    "answer": "Lizard"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 400,
+    "question": "Which animal is known for its long neck and legs and lives in Africa?",
+    "answer": "Giraffe"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 600,
+    "question": "What is the name of the only mammal capable of sustained flight?",
+    "answer": "Bat"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 600,
+    "question": "Which animal is known for its distinctive black and white fur and is native to China?",
+    "answer": "Giant Panda"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 600,
+    "question": "What is the term for a group of lions?",
+    "answer": "Pride"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 600,
+    "question": "Which ocean-dwelling animal has eight arms and is known for its intelligence?",
+    "answer": "Octopus"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 800,
+    "question": "What is the fastest land animal in the world?",
+    "answer": "Cheetah"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 800,
+    "question": "Which species of whale is known for its complex songs and is found in the North Atlantic Ocean?",
+    "answer": "Humpback Whale"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 800,
+    "question": "What is the name of the largest living species of reptile?",
+    "answer": "Saltwater Crocodile"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 800,
+    "question": "Which bird is known for its impressive migration from North America to Central America?",
+    "answer": "Monarch Butterfly"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 1000,
+    "question": "What is the name of the largest species of penguin?",
+    "answer": "Emperor Penguin"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 1000,
+    "question": "Which animal has the longest lifespan in the animal kingdom, with some individuals living over 200 years?",
+    "answer": "Galápagos Tortoise"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 1000,
+    "question": "What is the name of the rare mammal found only in the rainforests of Madagascar, known for its unique appearance and large eyes?",
+    "answer": "Aye-Aye"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 1000,
+    "question": "Which species of fish is known for its ability to produce electric shocks and is found in the Amazon River?",
+    "answer": "Electric Eel"
+  },
+  {
+    "category": "Animals",
+    "pointValue": 1000,
+    "question": "What is the name of the parasitic animal known for its ability to control the behavior of its host by altering its brain chemistry?",
+    "answer": "Cordyceps Fungus"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 200,
+    "question": "What is the holy book of Islam?",
+    "answer": "Quran"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 200,
+    "question": "In Christianity, who is considered the Son of God?",
+    "answer": "Jesus Christ"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 200,
+    "question": "Which religion is known for the Four Noble Truths and the Eightfold Path?",
+    "answer": "Buddhism"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 200,
+    "question": "What is the name of the Jewish day of rest and worship?",
+    "answer": "Sabbath"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 400,
+    "question": "In Hinduism, who is the god of destruction and transformation?",
+    "answer": "Shiva"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 400,
+    "question": "What is the term for the belief in multiple gods?",
+    "answer": "Polytheism"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 400,
+    "question": "Which religion is characterized by the practice of meditation and was founded by Siddhartha Gautama?",
+    "answer": "Buddhism"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 400,
+    "question": "In Islam, what is the term for the pilgrimage to Mecca that every Muslim must make at least once in their lifetime?",
+    "answer": "Hajj"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 600,
+    "question": "Which sacred text is considered the primary scripture of Hinduism?",
+    "answer": "Bhagavad Gita"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 600,
+    "question": "What is the name of the Jewish New Year?",
+    "answer": "Rosh Hashanah"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 600,
+    "question": "Which branch of Christianity is known for its emphasis on the authority of the Pope?",
+    "answer": "Roman Catholicism"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 600,
+    "question": "What term is used to describe the belief in a single, all-powerful God?",
+    "answer": "Monotheism"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 800,
+    "question": "In Taoism, what is the term for the fundamental principle that represents the natural order of the universe?",
+    "answer": "Tao"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 800,
+    "question": "Which Buddhist monk is known for his teachings on compassion and nonviolence and won the Nobel Peace Prize in 1989?",
+    "answer": "Dalai Lama"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 800,
+    "question": "What is the name of the Islamic declaration of faith, stating that there is no god but Allah, and Muhammad is His prophet?",
+    "answer": "Shahada"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 800,
+    "question": "In which religion is the concept of Karma central to the belief system?",
+    "answer": "Hinduism"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 1000,
+    "question": "What ancient text is considered the foundational scripture of Zoroastrianism?",
+    "answer": "Avesta"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 1000,
+    "question": "Which Indian emperor converted to Buddhism in the 3rd century BCE and promoted its teachings throughout his empire?",
+    "answer": "Ashoka the Great"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 1000,
+    "question": "In Sikhism, what is the name of the central scripture, which is a compilation of hymns and writings from various Sikh Gurus?",
+    "answer": "Guru Granth Sahib"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 1000,
+    "question": "What is the term for the mystical branch of Islam that seeks a direct personal experience with God?",
+    "answer": "Sufism"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 1000,
+    "question": "Which philosopher and theologian is known for his work 'Summa Theologica' and is considered a key figure in Catholic theology?",
+    "answer": "Thomas Aquinas"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 200,
+    "question": "What is the name of the Buddhist festival that celebrates the birth, enlightenment, and death of Buddha?",
+    "answer": "Vesak"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 200,
+    "question": "What is the term for the Hindu practice of devotion to a personal god or goddess?",
+    "answer": "Bhakti"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 200,
+    "question": "In Christianity, which event marks the resurrection of Jesus Christ from the dead?",
+    "answer": "Easter"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 200,
+    "question": "What is the name of the Islamic month of fasting?",
+    "answer": "Ramadan"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 400,
+    "question": "What is the name of the Jewish holiday that commemorates the liberation of the Israelites from Egyptian slavery?",
+    "answer": "Passover"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 400,
+    "question": "In Hinduism, which goddess is known as the goddess of wisdom and learning?",
+    "answer": "Saraswati"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 400,
+    "question": "Which religion celebrates the festival of Diwali, known as the Festival of Lights?",
+    "answer": "Hinduism"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 400,
+    "question": "In Christianity, what is the term for the first book of the Old Testament?",
+    "answer": "Genesis"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 600,
+    "question": "What term refers to the study of religious beliefs, practices, and institutions?",
+    "answer": "Theology"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 600,
+    "question": "What is the term for the spiritual practice of self-discipline and meditation in Zen Buddhism?",
+    "answer": "Zazen"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 600,
+    "question": "In Islam, what is the name of the law derived from the Quran and Hadith?",
+    "answer": "Sharia"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 600,
+    "question": "What is the term for the Japanese Shinto shrine dedicated to the gods of nature and ancestors?",
+    "answer": "Torii"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 800,
+    "question": "What is the term for the Islamic legal and moral code that governs various aspects of a Muslim's life?",
+    "answer": "Sharia Law"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 800,
+    "question": "Which religious text contains the teachings of Confucius and is a fundamental text in Confucianism?",
+    "answer": "The Analects"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 800,
+    "question": "What is the name of the Hindu festival that celebrates the arrival of spring and the victory of good over evil?",
+    "answer": "Holi"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 800,
+    "question": "Which early Christian theologian is known for his work 'City of God' and his influence on Western Christianity?",
+    "answer": "Augustine of Hippo"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 1000,
+    "question": "What is the name of the sacred texts that form the basis of Zoroastrianism, an ancient pre-Islamic religion of Iran?",
+    "answer": "The Avesta"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 1000,
+    "question": "In Sikhism, what is the name of the spiritual leader who founded the religion in the 15th century?",
+    "answer": "Guru Nanak"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 1000,
+    "question": "What is the name of the Hindu epic that tells the story of Prince Rama and his quest to rescue his wife Sita?",
+    "answer": "Ramayana"
+  },
+  {
+    "category": "Religions",
+    "pointValue": 1000,
+    "question": "Which Buddhist monk is renowned for translating Buddhist texts into Tibetan and is considered a major figure in Tibetan Buddhism?",
+    "answer": "Padmasambhava"
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"Et tu, Brute?\"",
+    "answer": "Julius Caesar",
+    "pointValue": 200
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I have not told half of what I saw.\"",
+    "answer": "Marco Polo",
+    "pointValue": 400
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"Last words are for fools who haven’t said enough.\"",
+    "answer": "Karl Marx",
+    "pointValue": 600
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I’m bored with it all.\"",
+    "answer": "Winston Churchill",
+    "pointValue": 800
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I go to seek a Great Perhaps.\"",
+    "answer": "François Rabelais",
+    "pointValue": 1000
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I shall hear in heaven.\"",
+    "answer": "Ludwig van Beethoven",
+    "pointValue": 200
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I die hard, but I am not afraid to go.\"",
+    "answer": "George Washington",
+    "pointValue": 400
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"Either that wallpaper goes, or I do.\"",
+    "answer": "Oscar Wilde",
+    "pointValue": 600
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I’m losing it.\"",
+    "answer": "Frank Sinatra",
+    "pointValue": 800
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"Now, now, my good man, this is no time for making enemies.\"",
+    "answer": "Voltaire",
+    "pointValue": 1000
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"It’s very beautiful over there.\"",
+    "answer": "Thomas Edison",
+    "pointValue": 200
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I have tried so hard to do right.\"",
+    "answer": "Grover Cleveland",
+    "pointValue": 400
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"Friends, applaud. The comedy is over.\"",
+    "answer": "Ludwig van Beethoven",
+    "pointValue": 600
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I regret that I have but one life to lose for my country.\"",
+    "answer": "Nathan Hale",
+    "pointValue": 800
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"Drink to me!\"",
+    "answer": "Pablo Picasso",
+    "pointValue": 1000
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I’m going away tonight.\"",
+    "answer": "James Brown",
+    "pointValue": 200
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"They couldn’t hit an elephant at this distance!\"",
+    "answer": "General John Sedgwick",
+    "pointValue": 400
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I only regret that I have but one life to give for my country.\"",
+    "answer": "Nathan Hale",
+    "pointValue": 600
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"Let us cross over the river and rest under the shade of the trees.\"",
+    "answer": "Stonewall Jackson",
+    "pointValue": 800
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"The taste of death is upon my lips… I feel something that is not of this earth.\"",
+    "answer": "Wolfgang Amadeus Mozart",
+    "pointValue": 1000
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I am about to take my last voyage, a great leap in the dark.\"",
+    "answer": "Thomas Hobbes",
+    "pointValue": 200
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I’ve had a hell of a lot of fun and I’ve enjoyed every minute of it.\"",
+    "answer": "Errol Flynn",
+    "pointValue": 400
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I have offended God and mankind because my work did not reach the quality it should have.\"",
+    "answer": "Leonardo da Vinci",
+    "pointValue": 600
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I have a terrific headache.\"",
+    "answer": "Franklin D. Roosevelt",
+    "pointValue": 800
+  },
+  {
+    "category": "Famous Last Words",
+    "question": "\"I see black light.\"",
+    "answer": "Victor Hugo",
+    "pointValue": 1000
+  },
+  {
+    "category": "South Africa",
+    "question": "What is the capital city of South Africa?",
+    "answer": "Pretoria",
+    "pointValue": 200
+  },
+  {
+    "category": "South Africa",
+    "question": "This Nobel Prize-winning leader fought against apartheid and became South Africa's first Black president.",
+    "answer": "Nelson Mandela",
+    "pointValue": 400
+  },
+  {
+    "category": "South Africa",
+    "question": "What is the national animal of South Africa?",
+    "answer": "Springbok",
+    "pointValue": 600
+  },
+  {
+    "category": "South Africa",
+    "question": "This South African city is home to Table Mountain, one of the New 7 Wonders of Nature.",
+    "answer": "Cape Town",
+    "pointValue": 800
+  },
+  {
+    "category": "South Africa",
+    "question": "What are the official languages of South Africa? (There are 11 in total.)",
+    "answer": "Afrikaans, English, isiXhosa, isiZulu, Sesotho, Setswana, siSwati, Tshivenda, Xitsonga, Sepedi, and isiNdebele",
+    "pointValue": 1000
+  },
+  {
+    "category": "South Africa",
+    "question": "Which province is known as the ‘Garden Route’?",
+    "answer": "Western Cape",
+    "pointValue": 200
+  },
+  {
+    "category": "South Africa",
+    "question": "What is the South African currency called?",
+    "answer": "Rand",
+    "pointValue": 400
+  },
+  {
+    "category": "South Africa",
+    "question": "What year did South Africa host the FIFA World Cup?",
+    "answer": "2010",
+    "pointValue": 600
+  },
+  {
+    "category": "South Africa",
+    "question": "This desert stretches into South Africa and is known for its red sand.",
+    "answer": "Kalahari Desert",
+    "pointValue": 800
+  },
+  {
+    "category": "South Africa",
+    "question": "Which famous political prisoner spent 18 years on Robben Island?",
+    "answer": "Nelson Mandela",
+    "pointValue": 1000
+  },
+  {
+    "category": "South Africa",
+    "question": "This breed of dog, often called the African Mastiff, originated in South Africa.",
+    "answer": "Boerboel",
+    "pointValue": 200
+  },
+  {
+    "category": "South Africa",
+    "question": "South Africa is the world's largest producer of this precious metal.",
+    "answer": "Platinum",
+    "pointValue": 400
+  },
+  {
+    "category": "South Africa",
+    "question": "This city, the third-largest in South Africa, is famous for its beaches and is located in the KwaZulu-Natal province.",
+    "answer": "Durban",
+    "pointValue": 600
+  },
+  {
+    "category": "South Africa",
+    "question": "This famous landmark is known as the ‘Cradle of Humankind’ and is a UNESCO World Heritage site.",
+    "answer": "Sterkfontein Caves",
+    "pointValue": 800
+  },
+  {
+    "category": "South Africa",
+    "question": "Which body of water lies to the south of South Africa?",
+    "answer": "Indian Ocean",
+    "pointValue": 1000
+  },
+  {
+    "category": "South Africa",
+    "question": "This unique flower is a national symbol of South Africa.",
+    "answer": "King Protea",
+    "pointValue": 200
+  },
+  {
+    "category": "South Africa",
+    "question": "Who was the first female president of South Africa’s Constitutional Court?",
+    "answer": "Justice Sisi Khampepe",
+    "pointValue": 400
+  },
+  {
+    "category": "South Africa",
+    "question": "This South African golfer has won The Masters and The Open Championship multiple times.",
+    "answer": "Gary Player",
+    "pointValue": 600
+  },
+  {
+    "category": "South Africa",
+    "question": "What type of rock formation is Table Mountain made of?",
+    "answer": "Sandstone",
+    "pointValue": 800
+  },
+  {
+    "category": "South Africa",
+    "question": "Which South African city is home to the Apartheid Museum?",
+    "answer": "Johannesburg",
+    "pointValue": 1000
+  },
+  {
+    "category": "South Africa",
+    "question": "This international figure was born in South Africa and went on to become the CEO of Tesla and SpaceX.",
+    "answer": "Elon Musk",
+    "pointValue": 200
+  },
+  {
+    "category": "South Africa",
+    "question": "This river forms part of the northern border between South Africa and Namibia.",
+    "answer": "Orange River",
+    "pointValue": 400
+  },
+  {
+    "category": "South Africa",
+    "question": "This region of South Africa is famous for its production of wine.",
+    "answer": "Cape Winelands",
+    "pointValue": 600
+  },
+  {
+    "category": "South Africa",
+    "question": "Which small independent country is completely surrounded by South Africa?",
+    "answer": "Lesotho",
+    "pointValue": 800
+  },
+  {
+    "category": "South Africa",
+    "question": "This organization led the fight against apartheid in South Africa.",
+    "answer": "African National Congress (ANC)",
+    "pointValue": 1000
+  },
+  {
+    "category": "Food",
+    "question": "What type of fruit is a Granny Smith?",
+    "answer": "Apple",
+    "pointValue": 200
+  },
+  {
+    "category": "Food",
+    "question": "This Italian dish is known for its layered structure made of pasta, cheese, and meat or vegetables.",
+    "answer": "Lasagna",
+    "pointValue": 400
+  },
+  {
+    "category": "Food",
+    "question": "Which country is known for creating sushi?",
+    "answer": "Japan",
+    "pointValue": 600
+  },
+  {
+    "category": "Food",
+    "question": "This spice is known as the 'King of Spices' and is native to India.",
+    "answer": "Black Pepper",
+    "pointValue": 800
+  },
+  {
+    "category": "Food",
+    "question": "What is the primary ingredient in traditional hummus?",
+    "answer": "Chickpeas",
+    "pointValue": 1000
+  },
+  {
+    "category": "Food",
+    "question": "Which country is famous for its large variety of cheeses, including Brie and Roquefort?",
+    "answer": "France",
+    "pointValue": 200
+  },
+  {
+    "category": "Food",
+    "question": "What is the main ingredient of guacamole?",
+    "answer": "Avocado",
+    "pointValue": 400
+  },
+  {
+    "category": "Food",
+    "question": "What is tofu primarily made from?",
+    "answer": "Soybeans",
+    "pointValue": 600
+  },
+  {
+    "category": "Food",
+    "question": "Which fruit is the main ingredient in a traditional Black Forest cake?",
+    "answer": "Cherries",
+    "pointValue": 800
+  },
+  {
+    "category": "Food",
+    "question": "This pasta dish’s name means 'little worms' in Italian.",
+    "answer": "Vermicelli",
+    "pointValue": 1000
+  },
+  {
+    "category": "Food",
+    "question": "What type of food is paneer, which is popular in Indian cuisine?",
+    "answer": "Cheese",
+    "pointValue": 200
+  },
+  {
+    "category": "Food",
+    "question": "What type of food is a shiitake?",
+    "answer": "Mushroom",
+    "pointValue": 400
+  },
+  {
+    "category": "Food",
+    "question": "Which Mexican dish consists of a folded or rolled tortilla filled with meat, beans, and cheese?",
+    "answer": "Burrito",
+    "pointValue": 600
+  },
+  {
+    "category": "Food",
+    "question": "Which herb is known for its distinct licorice-like flavor?",
+    "answer": "Fennel",
+    "pointValue": 800
+  },
+  {
+    "category": "Food",
+    "question": "What type of food is Gouda?",
+    "answer": "Cheese",
+    "pointValue": 1000
+  },
+  {
+    "category": "Food",
+    "question": "This popular tropical fruit has a spiny exterior and is known for its sweet, juicy interior.",
+    "answer": "Pineapple",
+    "pointValue": 200
+  },
+  {
+    "category": "Food",
+    "question": "This seafood dish, popular in Spain, is made from rice, saffron, chicken, seafood, and vegetables.",
+    "answer": "Paella",
+    "pointValue": 400
+  },
+  {
+    "category": "Food",
+    "question": "What is the key ingredient in pesto sauce?",
+    "answer": "Basil",
+    "pointValue": 600
+  },
+  {
+    "category": "Food",
+    "question": "Which country is known for the dish 'Poutine,' made with fries, gravy, and cheese curds?",
+    "answer": "Canada",
+    "pointValue": 800
+  },
+  {
+    "category": "Food",
+    "question": "This fermented food made from cabbage is a staple in Korean cuisine.",
+    "answer": "Kimchi",
+    "pointValue": 1000
+  },
+  {
+    "category": "Food",
+    "question": "Which fruit is traditionally used to make guava jelly?",
+    "answer": "Guava",
+    "pointValue": 200
+  },
+  {
+    "category": "Food",
+    "question": "What is the primary ingredient in a meringue?",
+    "answer": "Egg whites",
+    "pointValue": 400
+  },
+  {
+    "category": "Food",
+    "question": "This type of bread is known for its air bubbles and chewy texture, originating in Italy.",
+    "answer": "Ciabatta",
+    "pointValue": 600
+  },
+  {
+    "category": "Food",
+    "question": "What is the main ingredient in a traditional Greek tzatziki sauce?",
+    "answer": "Yogurt",
+    "pointValue": 800
+  },
+  {
+    "category": "Food",
+    "question": "Which cooking method involves sealing meat in a bag and cooking it slowly in a water bath?",
+    "answer": "Sous-vide",
+    "pointValue": 1000
+  }
+]

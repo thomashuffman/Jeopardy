@@ -1,0 +1,60 @@
+/* Winning Screen Styles */
+.winning-screen {
+    position: fixed; /* Fixes the position relative to the viewport */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(240, 248, 255, 0.7); /* Semi-transparent background */
+    color: #1e3b75; /* Dark blue text color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    z-index: 1000; /* Ensure it is above other content */
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .winning-message {
+    font-size: 2em; /* Adjusted font size for better fit */
+    font-weight: bold;
+    padding: 20px;
+    border: 5px solid #ff4500; /* Orange border */
+    border-radius: 15px;
+    background-color: #fff; /* White background for contrast */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5); /* Slightly reduced shadow */
+    animation: bounceIn 1s ease-out;
+    max-width: 90%; /* Ensures content does not overflow */
+    margin: auto;
+  }
+  
+  @keyframes bounceIn {
+    0% {
+      transform: scale(0.5);
+      opacity: 0;
+    }
+    50% {
+      transform: scale(1.05);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  .winning-message::before {
+    content: "🏆";
+    display: block;
+    font-size: 3em; /* Reduced size for better fit */
+    margin-bottom: 10px;
+  }
+  
+  .winning-message::after {
+    content: "🎉";
+    display: block;
+    font-size: 3em; /* Reduced size for better fit */
+    margin-top: 10px;
+  }
+  

@@ -150,7 +150,7 @@ const JeopardyBoard = () => {
   // Fetch questions from the text file
   const fetchQuestions = async () => {
     try {
-      const response = await fetch("/questions.txt");
+      const response = await fetch("/Jeopardy/questions.txt");
       const data = await response.json();
       setQuestions(data); // Save questions in the state
     } catch (error) {
